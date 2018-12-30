@@ -1,0 +1,1 @@
+module flexible-sample

@@ -1,0 +1,7 @@
+runtime: go111
+service: standard-sample
+
+handlers:
+  - url: /.*
+    script: auto
+    login: admin

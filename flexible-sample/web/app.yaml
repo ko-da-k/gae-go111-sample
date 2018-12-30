@@ -1,0 +1,7 @@
+runtime: custom
+env: flex
+service: flexible-sample
+
+resources:
+  cpu: 1
+  memory_db: 1
